@@ -3,7 +3,7 @@ import styled from "styled-components";
 
 export const Container = styled.div`
   display: grid;
-  grid-template-collums: repeat(3, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 2rem;
   margin-top: -10rem;
 
@@ -31,4 +31,4 @@ export const Container = styled.div`
       color: #FFF;
     }
   }
-`;
+`
